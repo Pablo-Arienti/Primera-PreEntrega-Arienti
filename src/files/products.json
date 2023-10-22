@@ -1,0 +1,102 @@
+[
+    {
+        "titulo": "Caja",
+        "descripcion": "Gabinete de torre mediana de alto rendimiento con un diseño de panel frontal de vidrio templado y un panel lateral de vidrio templado completo, lo que le permite exhibir el interior de su equipo.",
+        "precio": 490000,
+        "imagen": "imagen1",
+        "categoria": "Cajas",
+        "codigo": "ABC122",
+        "existencias": 20,
+        "id": 1
+    },
+    {
+        "titulo": "Portatil",
+        "descripcion": "PORTATIL ACER NITRO 5 AN515 CORE i5 11400H 8G RAM SATA SSD512 4G GTX-1650 15,6″FULL HD W11 NEGRO",
+        "precio": 4016000,
+        "imagen": "imagen2",
+        "categoria": "Portatiles",
+        "codigo": "ABC123",
+        "existencias": 10,
+        "id": 2
+    },
+    {
+        "titulo": "Board",
+        "descripcion": "BOARD AMD ASROCK A520M-HDV Micro USB3 A.V.R Pciexp 2 DDR 4 RYZ",
+        "precio": 700000,
+        "imagen": "imagen3",
+        "categoria": "Boards",
+        "codigo": "ABC124",
+        "existencias": 7,
+        "id": 3
+    },
+    {
+        "titulo": "Teclado",
+        "descripcion": "teclado inalámbrico para juegos K57 RGB, que presenta SLIPSTREAM WIRELESS de menos de 1 ms y una brillante retroiluminación RGB por tecla de los LED CAPELLIX",
+        "precio": 458000,
+        "imagen": "imagen4",
+        "categoria": "Teclados",
+        "codigo": "ABC125",
+        "existencias": 8,
+        "id": 4
+    },
+    {
+        "titulo": "Mouse",
+        "descripcion": "MOUSE GAMER TRUST YVI FX INALAMBRICO RGB BLANCO",
+        "precio": 57000,
+        "imagen": "imagen5",
+        "categoria": "Mouses",
+        "codigo": "ABC126",
+        "existencias": 20,
+        "id": 5
+    },
+    {
+        "titulo": "Disco SSD",
+        "descripcion": "UNIDAD DE ESTADO SOLIDO M.2 VIPER PATRIOT VPR400 512GB GEN4 X4 RGB 4600 X 3600",
+        "precio": 367000,
+        "imagen": "imagen6",
+        "categoria": "Discos",
+        "codigo": "ABC127",
+        "existencias": 10,
+        "id": 6
+    },
+    {
+        "titulo": "Memoria Ram",
+        "descripcion": "MEMORIA RAM DDR4 8G 3200 CORSAIR VENGEANCE RGB RS",
+        "precio": 215000,
+        "imagen": "imagen7",
+        "categoria": "Memorias",
+        "codigo": "ABC128",
+        "existencias": 10,
+        "id": 7
+    },
+    {
+        "titulo": "Monitor",
+        "descripcion": "MONITOR LED ASUS 28″ GAMING (UHD-DP-1MS-HDMI ) VP28UQG 4K",
+        "precio": 1601000,
+        "imagen": "imagen8",
+        "categoria": "Monitores",
+        "codigo": "ABC129",
+        "existencias": 10,
+        "id": 8
+    },
+    {
+        "titulo": "Mouse",
+        "descripcion": "MOUSE LOGITECH G502 LIGTHSPEED INALÁMBRICO GAMING",
+        "precio": 499000,
+        "imagen": "imagen9",
+        "categoria": "Mouses",
+        "codigo": "ABC130",
+        "existencias": 15,
+        "id": 9
+    },
+    {
+        "titulo": "Pad Mouse",
+        "descripcion": "Pad mouse con textura de superficie optimizada para una precisión óptima y un control suave.",
+        "precio": 45000,
+        "imagen": "imagen10",
+        "categoria": "Accesorios",
+        "codigo": "ABC131",
+        "existencias": 30,
+        "id": 10
+    }
+]
